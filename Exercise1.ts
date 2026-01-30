@@ -41,4 +41,4 @@ export function checkout(price: number, quantity: number):number{
 let a:number=Number(prompt("enter price"));
 let b:number=Number(prompt("enter quantity"));
 console.log(checkout(a,b));
-
+//hiiiiii
